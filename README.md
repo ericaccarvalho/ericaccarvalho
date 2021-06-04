@@ -14,8 +14,6 @@
 </p>
 
  ---
- 
- ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ananya-0306&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Ananya's github stats" />
