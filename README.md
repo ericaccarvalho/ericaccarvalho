@@ -15,13 +15,7 @@
 
  ---
 
-<a href="https://github.com/ericaccarvalho/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ananya-0306&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Ananya's github stats" />
-</a>
-<a href="https://github.com/ericaccarvalho/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  
-</a>
+
 <br />
 <br />
 ---
