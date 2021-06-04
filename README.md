@@ -10,7 +10,7 @@
 <p align="center">
 	<a href="https://github.com/ericaccarvalho"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.facebook.com/profile.php?id=100010622653602><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
-	a href="https://www.instagram.com/ericayuno/?hl="><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+	<a href="https://instagram.com/ericayuno?utm_medium=copy_link"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 </p>
 
  ---
